@@ -1,5 +1,6 @@
 # WifiRadio_ESP32
 Firmware programmed on a MakePython by way of a Arduino Communication... It works
+New sketch for use with the TTGO ESP32 by Lily Go is under development
 
 To program a MakePython ESP32 with an Arduino Uno, you can use the Arduino IDE to develop the ESP32: 
 Install the development board 
