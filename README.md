@@ -14,3 +14,14 @@ The Espressif IoT Development Framework (Espressif ESP IDF) is considered the of
 Most developers use the Microsoft VS Code IDE. 
 When starting with MicroPython, use the Stable firmware builds. 
 If your board has SPIRAM support, you can use the firmware with SPIRAM support to access more RAM for Python objects. 
+
+
+THe followingcode is inteded for updates as needed by the developer:
+String ssid =     "<enter wifi ssid here>";
+String password = "<enter password here";
+
+String stations[] ={
+        "https://stream.treevine.life/bosshogg",
+        "https://stream.treevine.life/noise",
+        "https://stream.treevine.life/zonasur"
+        }
